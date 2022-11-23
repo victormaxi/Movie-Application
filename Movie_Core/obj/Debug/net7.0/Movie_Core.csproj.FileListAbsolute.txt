@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\Movie_API\Movie_Core\obj\Debug\net7.0\Movie_Core.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Movie_API\Movie_Core\obj\Debug\net7.0\Movie_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Movie_API\Movie_Core\obj\Debug\net7.0\Movie_Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Movie_API\Movie_Core\obj\Debug\net7.0\Movie_Core.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Movie_API\Movie_Core\obj\Debug\net7.0\Movie_Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Movie_API\Movie_Core\bin\Debug\net7.0\Movie_Core.deps.json
+C:\Users\Lenovo\source\repos\Movie_API\Movie_Core\bin\Debug\net7.0\Movie_Core.dll
+C:\Users\Lenovo\source\repos\Movie_API\Movie_Core\bin\Debug\net7.0\Movie_Core.pdb
+C:\Users\Lenovo\source\repos\Movie_API\Movie_Core\obj\Debug\net7.0\Movie_Core.dll
+C:\Users\Lenovo\source\repos\Movie_API\Movie_Core\obj\Debug\net7.0\refint\Movie_Core.dll
+C:\Users\Lenovo\source\repos\Movie_API\Movie_Core\obj\Debug\net7.0\Movie_Core.pdb
+C:\Users\Lenovo\source\repos\Movie_API\Movie_Core\obj\Debug\net7.0\ref\Movie_Core.dll
